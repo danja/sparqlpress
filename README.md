@@ -16,4 +16,10 @@ But I just discovered [ARC2](https://github.com/semsol/arc2) is alive again!
 
 Next steps are to set up for docs in this repo, then revisit the original SparqlPress features, SparqlPress2 code, figure out how to work with PHP 8 and the current ARC2.
 
+Libs I'll likely be drawing on :
+
+- [ARC2](https://github.com/semsol/arc2) - PHP SPARQL store
+- [EasyRDF](https://www.easyrdf.org/) - general RDF in PHP
+- [RDF-Ext](https://rdf-ext.org/) - JS libs that extend the RDF/JS specs to make them easier in practice
+
 Watch this space!
